@@ -98,10 +98,10 @@
 	},
 	"sources": {
 		"contracts/eventtrigger.sol": {
-			"keccak256": "0xe6264aee71c3d6936e0a0a8f0be55e4a82fbaeffaa40901ec5a772cf5586b531",
+			"keccak256": "0x5a1910eb406f2249b0ebde4f79f6257a153ba1ac483a4ae2a325763d2bec3006",
 			"urls": [
-				"bzz-raw://c211203fa77db65d1075fe0b9de25fa36ac213af89a135f3c6b730d500a83fb2",
-				"dweb:/ipfs/QmVPNDXATqJnGgnggSWHKrFcvSvhtirETWARrtjYwCLxNW"
+				"bzz-raw://86cc06a0a5713a7dbade5d1765925fd444492b1a173a4ecf452464b8934097ac",
+				"dweb:/ipfs/QmTNKexW4iQ24RRqhjFME2zMFM9HMoYpJy7bpDfm4jmbLV"
 			]
 		}
 	},
